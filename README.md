@@ -1,6 +1,7 @@
 # Data visualization
 ## Stellar spectra, construction of blackbody curves of stars of different types and transmission curve of the atmosphere and of several astronomical surveys.
 
+This work was carried out in 2017.
 
 In this work, I create 3 types of graphs:
 
